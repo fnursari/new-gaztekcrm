@@ -1,0 +1,15 @@
+Database:   vizyoner_grapor
+Host:   localhost
+Username:   vizyoner_grapor
+Password:   cKajquJL
+
+Database:	vizyoner_gaztek
+Host:	localhost
+Username:	vizyoner_gaztek
+Password:	AjOhHV3B
+
+
+gaztek
+gaztek4200
+
+
